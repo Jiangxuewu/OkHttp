@@ -1,0 +1,16 @@
+
+›%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(­ÕÊí
+Vsquid:S1126"AReplace this if-then-else statement by a single return statement.(à÷ĞŸ
+csquid:HiddenFieldCheck"DRename "framedConnection" which hides the field declared at line 78.(ˆ¾¬D
+ƒ"squid:ClassVariableVisibilityCheck"RMake socket a static final constant or non-public and provide accessors if needed.(È™…½úÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"\Make framedConnection a static final constant or non-public and provide accessors if needed.(©ª¦‰şÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheck"XMake successCount a static final constant or non-public and provide accessors if needed.(íóõ”üÿÿÿÿ
+~"squid:ClassVariableVisibilityCheck"RMake source a static final constant or non-public and provide accessors if needed.(îæ‘
+{"squid:ClassVariableVisibilityCheck"PMake sink a static final constant or non-public and provide accessors if needed.(€Ä›z
+‡"squid:ClassVariableVisibilityCheck"[Make allocationLimit a static final constant or non-public and provide accessors if needed.(ÈÏ ı
+ƒ"squid:ClassVariableVisibilityCheck"XMake noNewStreams a static final constant or non-public and provide accessors if needed.(Ø³‘
+ˆ"squid:ClassVariableVisibilityCheck"WMake idleAtNanos a static final constant or non-public and provide accessors if needed.(ˆ±˜Ùúÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(·Ÿ±¦şÿÿÿÿ
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ä‡¿¯
+•squid:S1845"{Rename field "socket" to prevent any misunderstanding/clash with method "socket" defined in interface "okhttp3.Connection".(È™…½úÿÿÿÿ
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(‡æàíıÿÿÿÿ

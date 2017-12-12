@@ -1,0 +1,8 @@
+
+<squid:S3398""Move this method into "AsyncCall".(ˆ‘ŒŒþÿÿÿÿ
+csquid:S1192"IDefine a constant instead of duplicating this literal "Canceled" 3 times.(ÜÉ×þùÿÿÿÿ
+r
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(”ÁŸ©ùÿÿÿÿ
+_squid:S1854"ERemove this useless assignment to local variable "signalledCallback".(ÇˆÅÒùÿÿÿÿ
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(…ñã

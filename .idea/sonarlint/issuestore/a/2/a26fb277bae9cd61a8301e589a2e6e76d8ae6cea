@@ -1,0 +1,11 @@
+
+›%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(‡¡‚Ñ
+›%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(éÜÅ²
+¥%squid:RedundantThrowsDeclarationCheck"qRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from constructor's body.(àûğÃøÿÿÿÿ
+nsquid:S1192"YDefine a constant instead of duplicating this literal "unexpected end of stream" 3 times.(ÜØÙ
+bsquid:S1192"HDefine a constant instead of duplicating this literal "state: " 9 times.(›óãûÿÿÿÿ
+jsquid:S1192"PDefine a constant instead of duplicating this literal "byteCount < 0: " 3 times.( «„Ìúÿÿÿÿ
+\squid:S1192"GDefine a constant instead of duplicating this literal "closed" 5 times.(¶®Ñ¹
+\$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(† Ã–
+_squid:HiddenFieldCheck":Rename "source" which hides the field declared at line 72.(òÎËÆüÿÿÿÿ
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(…ãâû

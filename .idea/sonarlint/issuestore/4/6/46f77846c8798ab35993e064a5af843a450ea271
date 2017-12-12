@@ -1,0 +1,6 @@
+
+Dsquid:S1066"/Merge this if statement with the enclosing one.(Ø‘í™
+[squid:S1126"AReplace this if-then-else statement by a single return statement.(¾ºà˜ÿÿÿÿÿ
+Vsquid:S1126"AReplace this if-then-else statement by a single return statement.(æÊñÓ
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ğè
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(…ãâû

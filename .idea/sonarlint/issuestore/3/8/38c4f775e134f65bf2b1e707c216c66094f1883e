@@ -1,0 +1,5 @@
+
+^squid:S1192"IDefine a constant instead of duplicating this literal "realm=\"" 3 times.(ç—“Õ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(µ„„¡
+Gsquid:S1135"2Complete the task associated to this TODO comment.(µ„„¡
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(…ãâû
